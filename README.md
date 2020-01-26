@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Really basic javascript project that can be used as an addon for any banking or mortgage site.
     <br> 
 </p>
 
